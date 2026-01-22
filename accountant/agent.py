@@ -50,3 +50,4 @@ def run_accountant(csv_file):
         "table": df,
         "memory": memory,
     }
+
